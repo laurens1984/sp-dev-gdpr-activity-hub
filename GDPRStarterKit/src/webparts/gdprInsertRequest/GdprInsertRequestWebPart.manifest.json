@@ -10,8 +10,8 @@
   "preconfiguredEntries": [{
     "groupId": "3f3fac84-cbd6-44d7-880f-4ab5a65ad143",
     "group": { "default": "GDPR" },
-    "title": { "default": "GDPR Insert Request" },
-    "description": { "default": "Allows to insert a new GDPR Request" },
+    "title": { "default": "GDPR Insert Request", "nl-nl": "GDPR Aanvraag Toevoegen" },
+    "description": { "default": "Allows to insert a new GDPR Request", "nl-nl": "Geeft de mogelijkheid om een nieuw GDPR aanvraag toe te voegen" },
     "officeFabricIconFontName": "AddFriend",
     "properties": {
       "description": "GDPRInsertRequest"
